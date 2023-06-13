@@ -1,4 +1,5 @@
 # Data_Analyze_Exercise
+Using Pandas, Numpy, Matplotlib and Jupyter Notebook
 
 1. Bike store rentals
   - reading from csv file
